@@ -1,0 +1,11 @@
+lsass
+indigoclient.xyz:::Indigo
+oof.iridium.wtf:::Iridium
+auth.apolloclicker.pw:::Apollo Clicker
+onetap.cc:::OneTap 
+*.neverlack.in:::Drip Client
+purgeclient.xyz:::Purge Client
+msoftus.host:::Tap Client
+bikerboys.cc:::BIKERBoys Client
+relum.org:::Relum AutoClicker
+Cucklord inside!:::Anti SS Tool

@@ -1,0 +1,5 @@
+me\invakid\azran\SpringApp.class
+me\invakid\azran\dao\AzranDAO.class
+me\invakid\azran\service\AzranService.class
+me\invakid\azran\controller\AzranController.class
+me\invakid\azran\controller\AzranErrorController.class

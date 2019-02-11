@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Permissions: sandbox
+JavaFX-Version: 8.0
+Main-Class: me.invakid.azran.DetectionViewer
+

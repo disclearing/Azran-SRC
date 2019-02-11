@@ -1,0 +1,6 @@
+explorer
+Win32: Class[ConsoleWindowClass] Title[[PH0BIA]]:::ph0bia AutoClicker
+Support@MurGee.com:::Murgee Clicker
+Cucklord inside!:::Anti SS Tool
+
+
